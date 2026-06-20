@@ -61,8 +61,9 @@ else
   echo "[!] No MP3 files found in home directory."
 fi
 ```
-
+make sure to make the file exacuable
 run after downloading music into termux using
 ```
 ~/audio_move.sh
 ```
+
